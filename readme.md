@@ -1,8 +1,8 @@
-## B-Tree
+# B-Tree
 
 An interactive console application and an implementation of the B-Tree data structure with accompanying algorithms.
 
-# Features
+## Features
 
 - Configuring B-tree degree
 - Loading keys from a file
